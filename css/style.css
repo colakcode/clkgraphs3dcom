@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: "baloo";
+    src: url("baloo-tama.ttf");
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'baloo';
+}
+
+hr.rounded {
+    border-top: 1px solid #bbb;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.footer {
+    background-color: #0099cc;
+    color: #ffffff;
+    text-align: center;  
+    padding: 15px;
+    padding-top: 25px;
+}
+
+#link { 
+    color: white;
+    text-decoration:none;
+    font-size: 16px;
+}
