@@ -29,6 +29,11 @@ hr.rounded {
     padding-top: 25px;
 }
 
+.footer a{
+    margin-left:3px;
+    margin-right:3px;
+}
+
 #link { 
     color: white;
     text-decoration:none;
