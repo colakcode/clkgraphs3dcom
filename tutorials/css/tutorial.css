@@ -22,6 +22,7 @@
 .contents h4{
     color: #2c3e50;
     top:0%;
+    font-weight: bold;
 }
 
 .contents a:not(.contents-link) {
